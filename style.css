@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body{
+    background-color: steelblue;
+    width: 1000px;
+}
+
+
+
+#btnfillform{
+    background-color: steelblue;
+    color:white;  
+    padding: 15px 40px;
+    margin-left: 15px;
+    margin-right: 100px;
+    border-radius: 10px; 
+ 
+}
+
+
+#btnformdetails{
+    background-color: rgb(255, 255, 255);
+    color:rgb(14, 66, 2);  
+    padding: 10px 15px;
+    margin-left: 15px;
+    margin-right: 100px;
+    border-radius: 10px; 
+    width: 100%;
+
+}
+
+
+
+.fillform{
+width: 100%;
+padding:50px 50px 50px 50px;
+margin-left: 20px;
+margin-right: 20px;
+margin-bottom: 20px;
+margin-top: 30px;
+background-color: rgb(255, 255, 255);
+/* border: 1px solid black; */
+border-radius: 15px;
+}
+
+/* .formdetails{
+width: 100%;
+padding: 30px;
+background-color: steelblue;
+border:1px solid black;
+border-radius: 15px;
+margin-left:20px; */
